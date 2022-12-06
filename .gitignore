@@ -1,0 +1,9 @@
+.shaders/
+logs/
+save/
+data/
+*.csv
+*.json
+*.log
+
+
